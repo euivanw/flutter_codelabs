@@ -19,5 +19,7 @@ Irei efetuar a tradução de todos os laboratórios de código existentes na [p�
 | Flutter MDC 101: O básico dos componentes Material Design \(MDC\) | Em desenvolvimento |
 | Flutter MDC 102: Estrutura e Leiaute do Material | Em desenvolvimento |
 | Flutter MDC 103: Temas no Material com Cores, Formatos, Elevação e Tipos | Em desenvolvimento |
-| Flutter MDC 104: Componentes avançados do Material | Em |
+| Flutter MDC 104: Componentes avançados do Material | Em desenvolvimento |
+
+
 
