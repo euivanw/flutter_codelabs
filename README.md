@@ -14,8 +14,7 @@ Meu objetivo inicial é ajudar aos novos estudantes de Flutter que possuem o idi
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p><b>Escreva seu primeiro aplicativo Flutter, parte 1</b>
-        </p>
+        <p>&lt;b&gt;&lt;/b&gt;<a href="https://ivanwhm.gitbook.io/laboratorios-de-codigo-do-flutter/escreva-seu-primeiro-aplicativo-flutter-parte-1/introducao"><b>Escreva seu primeiro aplicativo Flutter, parte 1</b></a>&lt;b&gt;&lt;/b&gt;</p>
         <p></p>
         <p><em>Crie um aplicativo m&#xF3;vel simples que ir&#xE1; gerar  propostas de nomes para uma empresa iniciante. Nesta parte, voc&#xEA; ir&#xE1; usar um pacote que retorna aleatoriamente pares de palavras e depois vai inserir-las em uma lista com rolagem infinita.</em>
         </p>
@@ -26,8 +25,7 @@ Meu objetivo inicial é ajudar aos novos estudantes de Flutter que possuem o idi
     </tr>
     <tr>
       <td style="text-align:left">
-        <p><b>Escreva seu primeiro aplicativo Flutter, parte 2</b>
-        </p>
+        <p>&lt;b&gt;&lt;/b&gt;<a href="https://ivanwhm.gitbook.io/laboratorios-de-codigo-do-flutter/escreva-seu-primeiro-aplicativo-flutter-parte-2/introducao"><b>Escreva seu primeiro aplicativo Flutter, parte 2</b></a>&lt;b&gt;&lt;/b&gt;</p>
         <p></p>
         <p><em>Crie um aplicativo m&#xF3;vel simples que ir&#xE1; gerar  propostas de nomes para uma empresa iniciante. Na parte 2, voc&#xEA; ir&#xE1; estender o exemplo da parte 1 para permitir que o usu&#xE1;rio selecione um par de palavras favoritas e possa adicion&#xE1;-las a p&#xE1;gina de favoritos salvos, onde poder&#xE1; visualizar todos os nomes selecionados. Por &#xFA;ltimo, ir&#xE1; alterar o tema do aplicativo.</em>
         </p>
