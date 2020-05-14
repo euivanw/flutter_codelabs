@@ -14,11 +14,11 @@ class PalavrasRandomicasState extends State<PalavrasRandomicas> {
 }
 ```
 
-Note a declaração `State<PalavrasRandomicas>`. Isto indica que você está utilizando a classe genérica `State` que foi especializada ao usar `PalavrasRandomicas`. A maior parte da lógica e estado de um aplicativo reside aqui - ele mantém o estado para o _widget_ `PalavrasRandomicas`. Esta classe salva a lista de pares de palavras geradas, que irá crescer infinitamente conforme o usuário rolar a página e favoritar pares de palavras \(na [parte 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)\) quando o usuário adicionar ou removê-las da lista tocando no ícone de coração.
+Note a declaração `State<PalavrasRandomicas>`. Isto indica que você está utilizando a classe genérica `State` que foi especializada ao usar `PalavrasRandomicas`. A maior parte da lógica e estado de um aplicativo reside aqui - ele mantém o estado para o _widget_ `PalavrasRandomicas`. Esta classe salva a lista de pares de palavras geradas, que irá crescer infinitamente conforme o usuário rolar a página e favoritar pares de palavras \(na [parte 2](https://ivanwhm.gitbook.io/laboratorios-de-codigo-do-flutter/escreva-seu-primeiro-aplicativo-flutter-parte-2/introducao)\) quando o usuário adicionar ou removê-las da lista tocando no ícone de coração.
 
 `PalavrasRandomicasState` depende da classe `PalavrasRandomicas`. Você irá adicioná-la em seguida.
 
-▶ Adicione o _widget stateful_ `PalavrasRandomicas` no arquivo `main.dart`. O _widget_ `PalavrasRandomicas` faz muito pouco além de criar a classe `State:`
+![](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/img/a3c16fc17be25f6c.png) Adicione o _widget stateful_ `PalavrasRandomicas` no arquivo `main.dart`. O _widget_ `PalavrasRandomicas` faz muito pouco além de criar a classe `State:`
 
 ```dart
 class PalavrasRandomicas extends StatefulWidget {
@@ -29,7 +29,7 @@ class PalavrasRandomicas extends StatefulWidget {
 
 Após adicionar a classe de estado, a IDE reclama que na classe está faltando o método `build`. A seguir, você irá adicionar um método `build` básico, que irá gerar um par de palavras movendo o código gerado na classe `MyApp` para a classe `PalavrasRandomicasState`.
 
-▶ Adicione o método `build()` na classe `PalavrasRandomicasState`, como mostrado a seguir:
+![](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/img/a3c16fc17be25f6c.png) Adicione o método `build()` na classe `PalavrasRandomicasState`, como mostrado a seguir:
 
 ```dart
 class PalavrasRandomicasState extends State<PalavrasRandomicas> {
@@ -41,7 +41,7 @@ class PalavrasRandomicasState extends State<PalavrasRandomicas> {
 }
 ```
 
-▶ Remova a geração de palavras do código da classe `MyApp` fazendo as seguintes alterações:
+![](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/img/a3c16fc17be25f6c.png) Remova a geração de palavras do código da classe `MyApp` fazendo as seguintes alterações:
 
 ```dart
 class MyApp extends StatelessWidget {
@@ -55,7 +55,7 @@ class MyApp extends StatelessWidget {
           title: const Text('Bem-vindo(a) ao Flutter'),
         ),
         body: Center(
-          child: PalavrasRandomicas(), //subistitua esta linha
+          child: PalavrasRandomicas(), //substitua esta linha
         ),
       ),
     );
