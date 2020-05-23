@@ -23,3 +23,12 @@
 * [7. Mudar a interface usando temas](escreva-seu-primeiro-aplicativo-flutter-parte-2/mudar-a-interface-usando-temas.md)
 * [8. Muito bem!](escreva-seu-primeiro-aplicativo-flutter-parte-2/muito-bem.md)
 
+## 3. Escreva seu primeiro aplicativo Flutter para web <a id="escreva-seu-primeiro-aplicativo-flutter-para-web"></a>
+
+* [1. Introdução](escreva-seu-primeiro-aplicativo-flutter-para-web/introducao.md)
+* [2. Obter o código web inicial](escreva-seu-primeiro-aplicativo-flutter-para-web/obter-o-codigo-web-inicial.md)
+* [3. Exibir a tela de boas-vindas](escreva-seu-primeiro-aplicativo-flutter-para-web/exibir-a-tela-de-boas-vindas.md)
+* [4. Ativar rastreamento de progresso de login](escreva-seu-primeiro-aplicativo-flutter-para-web/ativar-rastreamento-de-progresso-de-login.md)
+* [4.5. Executar o Dart DevTools](escreva-seu-primeiro-aplicativo-flutter-para-web/executar-o-dart-devtools.md)
+* [5. Adicionar animação no login](escreva-seu-primeiro-aplicativo-flutter-para-web/adicionar-animacao-no-login.md)
+
