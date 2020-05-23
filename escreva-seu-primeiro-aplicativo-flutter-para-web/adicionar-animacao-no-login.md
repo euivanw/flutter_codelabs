@@ -7,7 +7,7 @@
 * Quando dois campos de texto contém texto, a barra laranja se torna amarela e anima dois terços da área de login.
 * Quando os três campos de texto contém texto, a barra amarela se torna verde e anima todo a área de login. O botão **Acessar** também ficará habilitado.
 
-#### 1. Adicione o _widget_ `IndicadorProgressoAnimado`.
+### 1. Adicione o _widget_ `IndicadorProgressoAnimado`.
 
 Adicione todo o código abaixo no final do arquivo:
 
@@ -72,7 +72,7 @@ class _IndicadorProgressoAnimadoState extends State<IndicadorProgressoAnimado> w
 }
 ```
 
-#### 2. Use o novo _widget_ `IndicadorProgressoAnimado`.
+### 2. Use o novo _widget_ `IndicadorProgressoAnimado`.
 
 Então, substitua o _widget_ `LinearProgressIndicator` do `Form` pelo novo _widget_ `IndicadorProgressoAnimado`.
 
@@ -87,11 +87,11 @@ child: Column(
 
 Este _widget_ utiliza o `AnimatedBuilder` para animar o indicador de progresso para o último valor.
 
-#### 3. Execute o aplicativo.
+### 3. Execute o aplicativo.
 
 Digite qualquer coisa nos três campos para visualizar a animação em funcionamento e então clique no botão **Acessar** trará a tela de boas-vindas.
 
-#### Observações
+### Observações
 
 * Você pode utilizar um `AnimationController` para executar qualquer animação.
 * `AnimatedBuild` recria a árvore de _widget_ quando o valor do `Animation` muda.

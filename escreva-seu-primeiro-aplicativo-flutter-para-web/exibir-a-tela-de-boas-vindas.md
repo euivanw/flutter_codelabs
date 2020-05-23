@@ -24,11 +24,11 @@ class BoasVindasTela extends StatelessWidget {
 
 A seguir, você irá habilitar o botão que mostra a tela e criar um método para exibi-la.
 
-#### **1. Começando pelo início.**
+### **1. Começando pelo início.**
 
 Localize o método `build()` da classe `_FormularioLoginState`. É nesta parte do código que o botão acessar é construindo. Note como o botão é definido: É um `FlatButton` com uma cor de fundo azul, o texto branco que diz **Acessar** e quando pressionado, não faz nada.
 
-#### **2. Atualize a propriedade `OnPressed`.**
+### **2. Atualize a propriedade `OnPressed`.**
 
 Atualize a propriedade `OnPressed` para chamar o método \(ainda não existente\) que irá mostrar a tela de boas-vindas. Altere a linha `onPressed: null`, para o seguinte conteúdo:
 
@@ -36,7 +36,7 @@ Atualize a propriedade `OnPressed` para chamar o método \(ainda não existente\
 onPressed: _mostrarTelaBoasVindas,
 ```
 
-#### **3. Adicione o método `_mostrarTelaBoasVindas`.**
+### **3. Adicione o método `_mostrarTelaBoasVindas`.**
 
 Corrija o erro reportado pelo analisador que diz que `_mostrarTelaBoasVindas` não está definido. Diretamente abaixo do método `build()`, adicione a seguinte função:
 
@@ -46,7 +46,7 @@ void _mostrarTelaBoasVindas() {
 }
 ```
 
-#### **4. Adicione a rota `/bemvindo`.**
+### **4. Adicione a rota `/bemvindo`.**
 
 Crie  conexão para exibir a nova tela. No método `build()` da classe `LoginApp`, adicione a seguinte rota, abaixo da rota `'/'`:
 
@@ -54,11 +54,11 @@ Crie  conexão para exibir a nova tela. No método `build()` da classe `LoginApp
 '/bemvindo': (context) => BoasVindasTela(),
 ```
 
-#### **5. Execute o aplicativo.**
+### **5. Execute o aplicativo.**
 
 Agora, o botão Acessar deve estar habilitado. Clique nele para exibir a tela de boas-vindas. Perceba como a navegação entre as telas é animada. Você consegue este comportamento por padrão.
 
-#### Observações
+### Observações
 
 * A função `_mostrarTelaBoasVindas` é utilizada no método `build()` como uma função de retorno. Funções de retorno são frequentemente utilizadas em código Dart, e, neste caso, isto significa "chamar o método quando o botão é pressionado".
 * O Flutter só tem um objeto `Navigator`. Este _widget_ gerencia as telas do Flutter \(também conhecidas como rotas e páginas\) dentro da pilha. A tela no topo da pilha é a tela exibida no momento presente. Incluir uma nova tela nesta pilha troca a visualização para a tela incluída. É por isto que a função `_mostrarTelaBoasVindas` adiciona a classe `BoasVindasTela` na pilha do `Navigator`. O usuário clica no botão e a tela de boas-vindas aparece. Da mesma forma, chamar o método `pop()` do `Navigator`, retorna para a tela anterior. Devido à navegação do Flutter ser integrada a navegação do navegador, isto acontece de forma implícita quando o usuário clica no botão de voltar do navegador.

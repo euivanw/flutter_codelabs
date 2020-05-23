@@ -36,8 +36,7 @@ Meu objetivo inicial é ajudar aos novos estudantes de Flutter que possuem o idi
     </tr>
     <tr>
       <td style="text-align:left">
-        <p><b>Escreva seu primeiro aplicativo Flutter para web</b>
-        </p>
+        <p>&lt;b&gt;&lt;/b&gt;<a href="https://ivanwhm.gitbook.io/laboratorios-de-codigo-do-flutter/escreva-seu-primeiro-aplicativo-flutter-para-web/introducao"><b>Escreva seu primeiro aplicativo Flutter para web</b></a>&lt;b&gt;&lt;/b&gt;</p>
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <p><em>Implemente um aplicativo web simples que mostra uma tela de login contendo tr&#xEA;s campos de texto. Conforme o usu&#xE1;rio preenche os campos, uma barra de progresso &#xE9; animada no topo da &#xE1;rea de login. Este laborat&#xF3;rio &#xE9; escrito especificamente para a web, mas se voc&#xEA; tiver baixado e configurado as ferramentas do Android e iOS , o aplicativo completo funciona nos dispositivos Android e iOS tamb&#xE9;m.</em>
         </p>

@@ -65,11 +65,11 @@ Utilizando o Visual Studio Code ou a linha de comando, [crie um projeto Flutter]
 
 ### 8. Substitua o conteúdo do arquivo `lib/main.dart` com o conteúdo da área de transferência. 
 
-Observações
+### Observações
 
 * O código completo deste exemplo fica no arquivo `lib/main.dart`
 * Se você conhece Java ou JavaScript, a linguagem Dart deve lhe parecer familiar
 * Toda a interface do aplicativo é criada em código Dart. Para mais informações, veja o artigo [Introdução a interface de usuário declarativa](https://flutter.dev/docs/get-started/flutter-for/declarative)
-* A interface do aplicativo é aderente ao [Material Design](https://material.io/design/introduction/), um linguagem de design visual que roda em qualquer dispositivo ou plataforma. Você pode customizar os _widgets_ do Material Design, mas se você preferir algo mais, o Flutter também oferece a biblioteca de _widgets_ Cupertino, que implementa a linguagem visual do iOS atual. Ou, você pode criar a sua própria biblioteca de _widgets_ customizada.
-* No Flutter, quase tudo é um [_Widget_](https://api.flutter.dev/flutter/widgets/Widget-class.html). O próprio aplicativo em si é um _widget_. A interface de usuário do aplicativo pode ser descrita como uma árvore de _widgets_.
+* A interface do aplicativo é aderente ao [Material Design](https://material.io/design/introduction/), uma linguagem de design visual que roda em qualquer dispositivo ou plataforma. Você pode customizar os _widgets_ do Material Design, mas se você preferir algo mais, o Flutter também oferece a biblioteca de _widgets_ Cupertino, que implementa a linguagem visual do iOS atual. Ou, você pode criar a sua própria biblioteca de _widgets_ customizada.
+* No Flutter, quase tudo é um [_Widget_](https://api.flutter.dev/flutter/widgets/Widget-class.html). O próprio aplicativo é um _widget_. A interface de usuário do aplicativo pode ser descrita como uma árvore de _widgets_.
 

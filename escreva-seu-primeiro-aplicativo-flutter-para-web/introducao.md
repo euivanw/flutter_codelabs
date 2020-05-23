@@ -1,6 +1,6 @@
 # 1. Introdução
 
-> **Dica**: Este laboratório irá guiar você para escrever seu primeiro aplicativo Flutter para web. Você pode preferir tentar o laboratório [Escrevendo seu primeiro aplicativo móvel Flutter](https://flutter.dev/docs/get-started/codelab). **Caso você tiver baixado e configurado as ferramentas do Android e iOS, o aplicativo completo funciona nos dispositivos Android e iOS!**.
+> **Dica**: Este laboratório irá guiar você para escrever seu primeiro aplicativo Flutter para web. Você pode preferir tentar o laboratório [Escrevendo seu primeiro aplicativo móvel Flutter](https://ivanwhm.gitbook.io/laboratorios-de-codigo-do-flutter/escreva-seu-primeiro-aplicativo-flutter-parte-1/introducao). **Caso você tiver baixado e configurado as ferramentas do Android e iOS, o aplicativo completo funciona nos dispositivos Android e iOS!**.
 
 Este é um guia para criar seu primeiro aplicativo Flutter web. Se você está familiarizado com programação orientada a objetos e seus conceitos como variáveis, laços e condicionais, você pode completar este tutorial. Você não precisa de experiência anterior com programação Dart, móvel e web.
 
