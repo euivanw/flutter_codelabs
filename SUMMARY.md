@@ -32,3 +32,17 @@
 * [4.5. Executar o Dart DevTools](escreva-seu-primeiro-aplicativo-flutter-para-web/executar-o-dart-devtools.md)
 * [5. Adicionar animação no login](escreva-seu-primeiro-aplicativo-flutter-para-web/adicionar-animacao-no-login.md)
 
+## 4. Conceitos básicos de leiaute no Flutter <a id="conceitos-basicos-de-leiaute-no-flutter"></a>
+
+* [1. Introdução](conceitos-basicos-de-leiaute-no-flutter/introducao.md)
+* [2. As classes Row e Column](conceitos-basicos-de-leiaute-no-flutter/as-classes-row-e-column.md)
+* [3. Tamanho do eixo e Alinhamento](conceitos-basicos-de-leiaute-no-flutter/tamanho-do-eixo-e-alinhamento.md)
+* [4. O Widget Flexible](conceitos-basicos-de-leiaute-no-flutter/o-widget-flexibe.md)
+* [5. O Widget Expanded](conceitos-basicos-de-leiaute-no-flutter/o-widget-expanded.md)
+* [6. O Widget SizedBox](conceitos-basicos-de-leiaute-no-flutter/o-widget-sizedbox.md)
+* [7. O Widget Spacer](conceitos-basicos-de-leiaute-no-flutter/o-widget-spacer.md)
+* [8. O Widget Text](conceitos-basicos-de-leiaute-no-flutter/o-widget-text.md)
+* [9. O Widget Icon](conceitos-basicos-de-leiaute-no-flutter/o-widget-icon.md)
+* [10. O Widget Image](conceitos-basicos-de-leiaute-no-flutter/o-widget-image.md)
+* [11. Unindo todas as partes](conceitos-basicos-de-leiaute-no-flutter/tudo-junto-e-misturado.md)
+
