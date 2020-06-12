@@ -1,4 +1,4 @@
-# 11. Unindo todas as partes
+# 11. Unir todas as partes
 
 Você está quase no final deste laboratório. Se você quiser testar seu conhecimento nas técnicas que aprendeu, porque não aplicar essas habilidades para construir uma interface do usuário em Flutter que exibe um cartão de visitas?
 
