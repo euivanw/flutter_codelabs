@@ -47,7 +47,7 @@ Meu objetivo inicial é ajudar aos novos estudantes de Flutter que possuem o idi
     </tr>
     <tr>
       <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;<a href="https://ivanwhm.gitbook.io/laboratorios-de-codigo-do-flutter/conceitos-basicos-de-leiaute-no-flutter/introducao"><b>Conceitos b&#xE1;sicos de leiaute no Flsutter</b></a>&lt;b&gt;&lt;/b&gt;</p>
+        <p>&lt;b&gt;&lt;/b&gt;<a href="https://ivanwhm.gitbook.io/laboratorios-de-codigo-do-flutter/conceitos-basicos-de-leiaute-no-flutter/introducao"><b>Conceitos b&#xE1;sicos de leiaute no Flutter</b></a>&lt;b&gt;&lt;/b&gt;</p>
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <p><em>Use o DartPad no navegador (n&#xE3;o precisa baixar nada!) para aprender o b&#xE1;sico sobre criar um leiaute Flutter.</em>
         </p>
